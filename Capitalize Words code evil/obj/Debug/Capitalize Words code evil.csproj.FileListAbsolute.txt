@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Capitalize Words code evil\Capitalize Words code evil\bin\Debug\Capitalize Words code evil.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Capitalize Words code evil\Capitalize Words code evil\bin\Debug\Capitalize Words code evil.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Capitalize Words code evil\Capitalize Words code evil\bin\Debug\Capitalize Words code evil.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Capitalize Words code evil\Capitalize Words code evil\obj\Debug\Capitalize Words code evil.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Capitalize Words code evil\Capitalize Words code evil\obj\Debug\Capitalize Words code evil.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Capitalize Words code evil\Capitalize Words code evil\obj\Debug\Capitalize Words code evil.pdb
